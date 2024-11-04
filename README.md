@@ -1,10 +1,3 @@
-<div align = "center">
-![logo](Resources/icon.png)
-<h1 align = "center">
-[Главная](https://study-git.eltex-co.ru/alarm-manager-2023-june/alarm-manager) | [Документация](/docs) | [Discord](https://discord.com/channels/1016323666457403412/1114032161243275316)
-</h1>
-</div>
-
 # Memoger
 Memoger — это программа alarm-manager в формате демона, следящего за изменениями определенных параметров системы. В зависимости от значений, сохраняются и выводятся индикации о выходе за установленные пределы.
 
